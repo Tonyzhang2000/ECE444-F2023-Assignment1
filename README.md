@@ -8,3 +8,6 @@
 
 ## Activity 3
 ![Sample Image](assets/a3_screenshot.png)
+
+## Activity 4
+![Sample Image](assets/a4_screenshot.png)
